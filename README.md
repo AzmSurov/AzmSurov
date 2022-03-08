@@ -1,8 +1,6 @@
 <img src="Rainbow.gif" width="100%">
 
-<div align="center">
-  <img src="https://cdn.pixabay.com/photo/2020/08/08/02/56/hacker-5471975_960_720.png" alt="Profile Picture">
-</div>
+
 
 <h3 align="center">Hey there, I’m Azm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
 
