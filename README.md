@@ -16,9 +16,11 @@
   <img src="https://img.shields.io/badge/-CSS-orange?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-JavaScript-purple?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=Typescript&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=React&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Node.js-brightgreen?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Mongo.DB-green?style=for-the-badge&logo=Mongodb&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Firebase-orange?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=black">
   
 </div>
 
@@ -28,14 +30,6 @@
 
 Pursuing Full Stack TypeScript Development
 
-<h3>🛠 Architecture</h3>
-
-```
-> fetch
-
-💾 OS     ~  macOS
-💻 Host   ~  MacBooka
-```
 
 <h3>📈 Interesting numbers</h3>
 
