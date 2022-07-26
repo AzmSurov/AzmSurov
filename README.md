@@ -37,11 +37,6 @@ Pursuing Full Stack TypeScript Development
 💻 Host   ~  MacBooka
 ```
 
-<h3>🎶 Vibing to</h3>
-<a href="https://open.spotify.com/user/7ceeea0d3ea74137bb287eb511764eac">
-  <img src="https://itstommi.vercel.app/api?spin=true?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-</a>
-
 <h3>📈 Interesting numbers</h3>
 
 <div>
