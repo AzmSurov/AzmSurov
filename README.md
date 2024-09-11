@@ -1,4 +1,4 @@
-<img src="Rainbow.gif" width="100%">
+
 
 
 
@@ -49,7 +49,7 @@ Pursuing Full Stack TypeScript Development
   <img src="Gradients.png" alt="Gradients" width="100%">
 </div>
 
-<img src="Rainbow.gif" width="100%">
+
 
 <!--
 - 🔭 I’m currently working on ...
